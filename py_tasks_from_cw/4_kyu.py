@@ -69,8 +69,8 @@ def is_possible (database: dict) -> bool:
 	first_day_hate_combinations_list = []
 	seconde_day_hate_combinations_list = []
 	for target_hero in database:
-
-	return True
+        pass    
+    return True
 
 def test_is_possible (*args):
 	rezalts = []
